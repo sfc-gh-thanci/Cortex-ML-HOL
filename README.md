@@ -1,4 +1,4 @@
-# Data For Breakfast (D4B) 2024 Keynote Demo
+# Bankdata on-site Snowflake day - Cortex Demo
 
 ## Overview
 
