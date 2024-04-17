@@ -10,7 +10,7 @@ You must have access to a Snowflake account where Snowflake Cortex ([check avail
 
 ## General Setup
 
-- Run SQL statements in [setup.sql](src/setup.sql) to create various objects (including db, schema, warehouse, tables, etc.) and load data using Snowsight using the provided .csv files (see setup.sql for details).
+- Run SQL statements in [setup.sql](src/setup.sql) to create various objects (including db, schema, warehouse, tables, etc.) and load data using Snowsight using the provided .csv files (see setup.sql for details). ** DO NOT RUN last step before loading data to the tables **
 
 - If your version of Snowflake Notebooks supports **Import .ipynb** feature, then import [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb). Otherwise, copy-paste SQL cell code snippets from [snowflake_cortex.txt](src/snowflake_cortex.txt) into your Snowflake Notebook. ***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
 
