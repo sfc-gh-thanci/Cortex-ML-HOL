@@ -1,0 +1,26 @@
+>>>> Python cell <<<<
+
+# Streamlit
+import streamlit as st
+
+# Snowpark
+from snowflake.snowpark.context import get_active_session
+import snowflake.snowpark.functions as F
+session = get_active_session()
+
+>>>> Python cell <<<<
+
+df = session.table('call_transcripts').group_by(F.col('country')).agg(F.count('*').alias('total_transcripts'))
+st.bar_chart(data=df,x='COUNTRY',y='TOTAL_TRANSCRIPTS')
+
+>>>> SQL Cell <<<<
+
+select country,transcript from call_transcripts where language = 'English';
+
+>>>> SQL Cell <<<<
+
+-- Score between -1 and 1; -1 = most negative, 1 = positive, 0 =neutral
+select transcript as "Transcript",snowflake.cortex.sentiment(transcript) as "Sentiment Score" 
+from call_transcripts 
+where language = 'English'
+order by "Sentiment Score";
