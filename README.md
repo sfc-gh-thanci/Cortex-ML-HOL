@@ -1,4 +1,4 @@
-# Bankdata on-site Snowflake day - Cortex Demo
+# Topdanmark on-site Snowflake day - Cortex Demo
 
 ## Overview
 
