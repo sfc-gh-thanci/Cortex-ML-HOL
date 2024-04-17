@@ -68,11 +68,6 @@ Customer: Thank you! You too.
 
 #### 3. Forecast Call Volume
 
-***Common errors:***
-
-> * If you get this error `Uncaught exception of type 'STATEMENT_ERROR' on line 7 at position 2 : No active warehouse selected in the current session. Select an active warehouse with the 'use warehouse' command.`, then ask Tolga to fix it :)
-> * If you get this error `KeyError: 'TS'`, then it means that you trained the forecast model without first loading the data in DASH_D4B_DB.DASH_D4B_SCHEMA.DAILY_CALL_VOLUME table. So go back to [setup.sql](src/setup.sql) and repeat the last couple of steps.
-
 
 ![Demo3.3](assets/demo3.3.png)
 
