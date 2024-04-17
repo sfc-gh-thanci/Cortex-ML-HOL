@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repo contains everything you need to know about the [Data For Breakfast](https://www.snowflake.com/events/data-for-breakfast/) keynote demo.
-
+This repo is created to provide what you need to run the updated version of the demo which has been presented in Data for Breakfast event. In the event we have demostrated the solution and we haven't run the setup. But for this Hands on Lab, we will also spend time together to setup the demo environment where we will tocuh the ML functions.
 ## Prerequisites
 
 You must have access to a Snowflake account where Snowflake Cortex ([check availability regions](https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions#label-cortex-llm-availability)) and Snowflake Notebooks are enabled. 
