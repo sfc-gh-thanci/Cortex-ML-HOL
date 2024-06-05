@@ -140,6 +140,10 @@ This option will provide the forecasted call volumes using a line graph. Check t
 
 ![Demo3.3](assets/demo3.3.png)
 
+#### 4. Translate Call Summary
+
+Use same transcript prvided under "1. Sentiment Analysis" and translate it to any languages you prefer from the drop down list.
+
 ## Cleanup
 
 After your demo delete the dynamic table by executing `DROP DYNAMIC TABLE CUSTOMER_LATEST_CALL_SUMMARY;`
