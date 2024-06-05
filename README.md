@@ -81,7 +81,7 @@ Step 8:
 ***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
 
 <p align="center">
-  <img src="assets/Studio_1.png" width=75% height=75% />
+  <img src="assets/Notebook.png" width=75% height=75% />
 </p>
 
 ## Demos
