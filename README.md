@@ -27,7 +27,15 @@ Field optionally enclosed by: Double quotes
 
 <p align="center">
   <img src="assets/Studio_1.png" width=50% height=50% />
+  </>
   <img src="assets/Studio_2.png" width=50% height=50% />
+  <img src="assets/Studio_3.png" width=50% height=50% />
+  <img src="assets/Studio_4.png" width=50% height=50% />
+  <img src="assets/Studio_5.png" width=50% height=50% />
+  <img src="assets/Studio_6.png" width=50% height=50% />
+  <img src="assets/Studio_7.png" width=50% height=50% />
+  <img src="assets/Studio_8.png" width=50% height=50% />
+  <img src="assets/Studio_9.png" width=50% height=50% />
 </p>
 
 <img align="right" src="assets/Studio_1.png" width=50% height=50%>
