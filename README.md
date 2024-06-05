@@ -15,8 +15,8 @@ You must have access to a Snowflake account where Snowflake Cortex ([check avail
 **!!!DO NOT RUN last step (Train Forecast Model d4b_model) before loading data to the tables!!!**
 
 - Using snowsigt load data to each of the tables by using the below options. (Snowsight leftpane menu -> Data -> Database -> DASH_D4B_DB -> DASH_D4B_SCHEMA -> TABLES -> Top right corner "Load" -> Browse -> Choose the related file)
-Header: Skip first line
-Field optionally enclosed by: Double quotes
+<br />Header: Skip first line
+<br />Field optionally enclosed by: Double quotes
 
 <p align="center">
   <img src="assets/Load_Data.png" width=75% height=75% />
