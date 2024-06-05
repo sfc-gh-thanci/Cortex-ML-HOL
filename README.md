@@ -22,6 +22,7 @@ Field optionally enclosed by: Double quotes
   <img src="assets/Load_Data.png" width=75% height=75% />
 </p>
 
+## Model Training
 - **Option 1:** Create and train the model using Cortex ML Functions.
 - **Option 2:** Use no-code UI Snowflake AI&ML Studio to create and train the model . Follow the screenshots.
 
