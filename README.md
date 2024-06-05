@@ -26,7 +26,7 @@ Field optionally enclosed by: Double quotes
 - **Option 2:** Use no-code UI Snowflake AI&ML Studio to create and train the model . Follow the screenshots.
 
 
-        Step1:
+Step 1:
 <p align="center">
   <img src="assets/Studio_1.png" width=75% height=75% />
 </p>
@@ -34,24 +34,31 @@ Step 2:
 <p align="center">
   <img src="assets/Studio_2.png" width=75% height=75% />
 </p>
+Step 3:
 <p align="center">
   <img src="assets/Studio_3.png" width=75% height=75% />
 </p>
+Step 4:
 <p align="center">
   <img src="assets/Studio_4.png" width=75% height=75% />
 </p>
+Step 5:
 <p align="center">
   <img src="assets/Studio_5.png" width=75% height=75% />
 </p>
+Step 6:
 <p align="center">
   <img src="assets/Studio_6.png" width=75% height=75% />
 </p>
+Step 7:
 <p align="center">
   <img src="assets/Studio_7.png" width=75% height=75% />
 </p>
+Step 8:
 <p align="center">
   <img src="assets/Studio_8.png" width=75% height=75% />
 </p>
+Step 9:
 <p align="center">
   <img src="assets/Studio_9.png" width=75% height=75% />
 </p>
