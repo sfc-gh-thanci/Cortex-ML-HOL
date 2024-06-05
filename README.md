@@ -19,7 +19,7 @@ Header: Skip first line
 Field optionally enclosed by: Double quotes
 
 
-<img align="center" src="assets/Load_Data.png" width="350" height="445">
+<img src="assets/Load_Data.png" align="center" width="350" height="445">
 
 - If your version of Snowflake Notebooks supports **Import .ipynb** feature, then import [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb). Otherwise, copy-paste SQL cell code snippets from [snowflake_cortex.txt](src/snowflake_cortex.txt) into your Snowflake Notebook. ***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
 
