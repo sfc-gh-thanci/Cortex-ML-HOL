@@ -20,6 +20,19 @@ Field optionally enclosed by: Double quotes
 
 ![Demo1](assets/Load_Data.png)
 
+- ** Option 1: ** Create and train the model using Cortex ML Functions.
+- ** Option 2: ** Use no-code UI Snowflake AI&ML Studio to create and train the model . Follow the screenshots.
+
+![Demo1](assets/Studio_1.png)
+![Demo1](assets/Studio_2.png)
+![Demo1](assets/Studio_3.png)
+![Demo1](assets/Studio_4.png)
+![Demo1](assets/Studio_5.png)
+![Demo1](assets/Studio_6.png)
+![Demo1](assets/Studio_7.png)
+![Demo1](assets/Studio_8.png)
+![Demo1](assets/Studio_9.png)
+
 
 - If your version of Snowflake Notebooks supports **Import .ipynb** feature, then import [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb). Otherwise, copy-paste SQL cell code snippets from [snowflake_cortex.txt](src/snowflake_cortex.txt) into your Snowflake Notebook. ***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
 
