@@ -19,7 +19,7 @@ Header: Skip first line
 Field optionally enclosed by: Double quotes
 
 <p align="center">
-  <img src="assets/Load_Data.png" width=50% height=50% />
+  <img src="assets/Load_Data.png" width=75% height=75% />
 </p>
 
 - **Option 1:** Create and train the model using Cortex ML Functions.
@@ -28,32 +28,32 @@ Field optionally enclosed by: Double quotes
 
 Step 1:
 <p align="center">
-  <img src="assets/Studio_1.png" width=50% height=50% />
+  <img src="assets/Studio_1.png" width=75% height=75% />
 </p>
 Step 2:
 <p align="center">
-  <img src="assets/Studio_2.png" width=50% height=50% />
+  <img src="assets/Studio_2.png" width=75% height=75% />
 </p>
 <p align="center">
-  <img src="assets/Studio_3.png" width=50% height=50% />
+  <img src="assets/Studio_3.png" width=75% height=75% />
 </p>
 <p align="center">
-  <img src="assets/Studio_4.png" width=50% height=50% />
+  <img src="assets/Studio_4.png" width=75% height=75% />
 </p>
 <p align="center">
-  <img src="assets/Studio_5.png" width=50% height=50% />
+  <img src="assets/Studio_5.png" width=75% height=75% />
 </p>
 <p align="center">
-  <img src="assets/Studio_6.png" width=50% height=50% />
+  <img src="assets/Studio_6.png" width=75% height=75% />
 </p>
 <p align="center">
-  <img src="assets/Studio_7.png" width=50% height=50% />
+  <img src="assets/Studio_7.png" width=75% height=75% />
 </p>
 <p align="center">
-  <img src="assets/Studio_8.png" width=50% height=50% />
+  <img src="assets/Studio_8.png" width=75% height=75% />
 </p>
 <p align="center">
-  <img src="assets/Studio_9.png" width=50% height=50% />
+  <img src="assets/Studio_9.png" width=75% height=75% />
 </p>
 
 
