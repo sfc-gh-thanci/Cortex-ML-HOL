@@ -27,7 +27,7 @@ Field optionally enclosed by: Double quotes
 
 
 <p align="center">
-  Step 1:
+  Step 1:/
   <img src="assets/Studio_1.png" width=50% height=50% />
 </p>
 Step 2:
