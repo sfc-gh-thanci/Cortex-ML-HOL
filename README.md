@@ -19,11 +19,12 @@ Header: Skip first line
 Field optionally enclosed by: Double quotes
 
 ![Demo1](assets/Load_Data.png)
+<img align="center" src="assets/Load_Data.png" width=50% height=50%>
 
 - ** Option 1: ** Create and train the model using Cortex ML Functions.
 - ** Option 2: ** Use no-code UI Snowflake AI&ML Studio to create and train the model . Follow the screenshots.
 
-![Demo1](assets/Studio_1.png)
+![Demo1](assets/Studio_1.png) 
 ![Demo1](assets/Studio_2.png)
 ![Demo1](assets/Studio_3.png)
 ![Demo1](assets/Studio_4.png)
