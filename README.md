@@ -101,6 +101,8 @@ Download [dynamic_table_demo.sql](src/dynamic_table_demo.sql) and create a new S
 
 ![Demo2.1](assets/demo2.1.png)
 
+
+
 ![Demo2.2](assets/demo2.2.png)
 
 After running the code, check 
