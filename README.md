@@ -76,8 +76,13 @@ Step 8:
 ## Cortex LLM - Sentiment Analysis
 
 - In this part of the demo we will run sentiment analysis of the call center transcipts using Cortex LLM function. We will use Snowflake Notebook to run the codes. 
-**Import .ipynb** feature, then import [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb). ***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
+**Download  [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb) to your local and then upload it to Snowsight. 
 
+***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
+
+<p align="center">
+  <img src="assets/Studio_1.png" width=75% height=75% />
+</p>
 
 ## Demos
 
