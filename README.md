@@ -142,7 +142,8 @@ This option will provide the forecasted call volumes using a line graph. Check t
 
 #### 4. Translate Call Summary
 
-![Demo3.3](assets/SiS-Option4.3.png)
+![Demo3.3](assets/SiS-Option4.png)
+
 
 Use same transcript prvided under "1. Sentiment Analysis" and translate it to any languages you prefer from the drop down list.
 
