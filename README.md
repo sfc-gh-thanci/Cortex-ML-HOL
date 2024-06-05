@@ -44,21 +44,17 @@ Step 4:
 </p>
 Step 5:
 <p align="center">
-  <img src="assets/Studio_5.png" width=75% height=75% />
+  <img src="assets/Studio_6.png" width=75% height=75% />
 </p>
 Step 6:
 <p align="center">
-  <img src="assets/Studio_6.png" width=75% height=75% />
+  <img src="assets/Studio_7.png" width=75% height=75% />
 </p>
 Step 7:
 <p align="center">
-  <img src="assets/Studio_7.png" width=75% height=75% />
-</p>
-Step 8:
-<p align="center">
   <img src="assets/Studio_8.png" width=75% height=75% />
 </p>
-Step 9:
+Step 8:
 <p align="center">
   <img src="assets/Studio_9.png" width=75% height=75% />
 </p>
