@@ -27,35 +27,32 @@ Field optionally enclosed by: Double quotes
 
 <p align="center">
   <img src="assets/Studio_1.png" width=50% height=50% />
-  </ asdaff >
+</p>
+<p align="center">
   <img src="assets/Studio_2.png" width=50% height=50% />
+</p>
+<p align="center">
   <img src="assets/Studio_3.png" width=50% height=50% />
+</p>
+<p align="center">
   <img src="assets/Studio_4.png" width=50% height=50% />
+</p>
+<p align="center">
   <img src="assets/Studio_5.png" width=50% height=50% />
+</p>
+<p align="center">
   <img src="assets/Studio_6.png" width=50% height=50% />
+</p>
+<p align="center">
   <img src="assets/Studio_7.png" width=50% height=50% />
+</p>
+<p align="center">
   <img src="assets/Studio_8.png" width=50% height=50% />
+</p>
+<p align="center">
   <img src="assets/Studio_9.png" width=50% height=50% />
 </p>
 
-<img align="right" src="assets/Studio_1.png" width=50% height=50%>
-<img align="center" src="assets/Studio_2.png" width=50% height=50%>
-<img align="center" src="assets/Studio_3.png" width=50% height=50%>
-<img align="center" src="assets/Studio_4.png" width=50% height=50%>
-<img align="center" src="assets/Studio_5.png" width=50% height=50%>
-<img align="center" src="assets/Studio_6.png" width=50% height=50%>
-<img align="center" src="assets/Studio_7.png" width=50% height=50%>
-<img align="center" src="assets/Studio_8.png" width=50% height=50%>
-<img align="center" src="assets/Studio_9.png" width=50% height=50%>
-![Demo1](assets/Studio_1.png) 
-![Demo1](assets/Studio_2.png)
-![Demo1](assets/Studio_3.png)
-![Demo1](assets/Studio_4.png)
-![Demo1](assets/Studio_5.png)
-![Demo1](assets/Studio_6.png)
-![Demo1](assets/Studio_7.png)
-![Demo1](assets/Studio_8.png)
-![Demo1](assets/Studio_9.png)
 
 
 - If your version of Snowflake Notebooks supports **Import .ipynb** feature, then import [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb). Otherwise, copy-paste SQL cell code snippets from [snowflake_cortex.txt](src/snowflake_cortex.txt) into your Snowflake Notebook. ***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
