@@ -58,8 +58,8 @@ create or replace TABLE DASH_D4B_DB.DASH_D4B_SCHEMA.DAILY_CALL_VOLUME (
 ---- Header: Skip first line
 
 -- Train Forecast Model d4b_model
-create or replace SNOWFLAKE.ML.FORECAST d4b_model(
+/*create or replace SNOWFLAKE.ML.FORECAST d4b_model(
   INPUT_DATA => SYSTEM$REFERENCE('TABLE', 'DAILY_CALL_VOLUME'),
   TIMESTAMP_COLNAME => 'date',
   TARGET_COLNAME => 'total_calls'
-);
+);*/
