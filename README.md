@@ -14,6 +14,10 @@ You must have access to a Snowflake account where Snowflake Cortex ([check avail
 - Download data in .csv files from [here](https://github.com/sfc-gh-thanci/test/tree/main/data) and load data using Snowsight (see setup.sql for details).
 **!!!DO NOT RUN last step (Train Forecast Model d4b_model) before loading data to the tables!!!**
 
+- Using snowsigt load data to each of the tables by using the below options. (Snowsight leftpane menu -> Data -> Database -> DASH_D4B_DB -> DASH_D4B_SCHEMA -> TABLES -> Top right corner "Load" -> Browse -> Choose the related file)
+Header: Skip first line
+Field optionally enclosed by: Double quotes
+
 - If your version of Snowflake Notebooks supports **Import .ipynb** feature, then import [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb). Otherwise, copy-paste SQL cell code snippets from [snowflake_cortex.txt](src/snowflake_cortex.txt) into your Snowflake Notebook. ***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
 
 - Create Streamlit application in your Snowflake account using the code provided in [sis_app.py](src/sis_app.py).
