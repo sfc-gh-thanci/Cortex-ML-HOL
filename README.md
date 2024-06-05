@@ -93,7 +93,7 @@ Open [Snowflake Coxtex Notebook](src/snowflake_cortex.ipynb) and run the command
 ![Demo1](assets/demo1.2.png)
 
 ### Demo 3: Dynamic Tables
-Create Streamlit application in your Snowflake account using the code provided in [sis_app.py](src/sis_app.py)
+
 Download [dynamic_table_demo.sql](src/dynamic_table_demo.sql) and create a new SQL Worksheet using this code. Run the scripts to create Dynamic Tables.
 
 ![Demo2.1](assets/demo2.1.png)
@@ -105,6 +105,7 @@ After running the code, check the DAG view of the dynamic table you have created
 
 ### Demo 4: Streamlit in Snowflake (SiS) Application
 
+Create Streamlit application in your Snowflake account using the code provided in [sis_app.py](src/sis_app.py)
 Using this [Streamlit](src/sis_app.py) code create a new streamlit App.
 
 #### 1. Sentiment Analysis
