@@ -22,9 +22,6 @@ You must have access to a Snowflake account where Snowflake Cortex ([check avail
   <img src="assets/Load_Data.png" width=75% height=75% />
 </p>
 
-- If your version of Snowflake Notebooks supports **Import .ipynb** feature, then import [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb). Otherwise, copy-paste SQL cell code snippets from [snowflake_cortex.txt](src/snowflake_cortex.txt) into your Snowflake Notebook. ***IMPORTANT***: Create your notebook in the following location CORTEX_DEMO_DB > CORTEX_DEMO_SCHEMA
-
-- Create Streamlit application in your Snowflake account using the code provided in [sis_app.py](src/sis_app.py).
 
 ## DEMOS
 
@@ -96,7 +93,7 @@ Open [Snowflake Coxtex Notebook](src/snowflake_cortex.ipynb) and run the command
 ![Demo1](assets/demo1.2.png)
 
 ### Demo 3: Dynamic Tables
-
+Create Streamlit application in your Snowflake account using the code provided in [sis_app.py](src/sis_app.py)
 Download [dynamic_table_demo.sql](src/dynamic_table_demo.sql) and create a new SQL Worksheet using this code. Run the scripts to create Dynamic Tables.
 
 ![Demo2.1](assets/demo2.1.png)
