@@ -84,7 +84,7 @@ Step 8:
 </p>
 
 
-Open [Snowflake Coxtex Notebook](src/snowflake_cortex.ipynb) and run the commands as shown below. The purpose of this demo to be familiar with Snowflake Notebook and to see how easy to call/run Cortex LLM functions.
+Open [Snowflake Coxtex Notebook](src/snowflake_cortex.ipynb) and run the commands as shown below. The purpose of this demo is to make you familiar with Snowflake Notebook and to see how easy to call/run Cortex LLM functions.
 
 ![Demo1](assets/demo1.1.png)
 
