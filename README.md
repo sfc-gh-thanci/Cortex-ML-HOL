@@ -130,7 +130,7 @@ Customer: Thank you! You too.
 
 #### 2. Latest Call Summary
 
-This option provide the summary of the latest call using the data in the Dynamic Table we have created in "Demo 3 - Dynamic Tables"
+This option provides the summary of the latest call using the data in the Dynamic Table we have created in "Demo 3 - Dynamic Tables"
 
 ![Demo3.2](assets/demo3.2.png)
 
