@@ -108,7 +108,7 @@ After running the code, check the DAG view of the dynamic table you have created
 
 ### Demo 4: Streamlit in Snowflake (SiS) Application
 
-Open [Streamlit](src/sis_app.py) app follow the demo script to perform the live demo for **Sentiment Analysis, Latest Call Summary, and Forecast Call Volume**.
+Download the Streamlit code via [Streamlit](src/sis_app.py) and then create a new streamlit App using this code.
 
 #### 1. Sentiment Analysis
 
