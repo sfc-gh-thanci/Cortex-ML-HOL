@@ -24,6 +24,13 @@ Field optionally enclosed by: Double quotes
 
 ## Model Training
 - **Option 1:** Create and train the model using Cortex ML Functions.
+
+    create or replace SNOWFLAKE.ML.FORECAST d4b_model(
+      INPUT_DATA => SYSTEM$REFERENCE('TABLE', 'DAILY_CALL_VOLUME'),
+      TIMESTAMP_COLNAME => 'date',
+      TARGET_COLNAME => 'total_calls'
+    );
+
 - **Option 2:** Use no-code UI Snowflake AI&ML Studio to create and train the model . Follow the screenshots.
 
 
