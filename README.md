@@ -74,7 +74,7 @@ Step 8:
 
 ## Demo 2 - Cortex LLM - Sentiment Analysis
 
-- In this part of the demo we will run sentiment analysis of the call center transcipts using Cortex LLM function. We will use Snowflake Notebook to run the codes. 
+- In this part of the demo we will run sentiment analysis of the call center transcipts using Cortex LLM function. We will use Snowflake Notebook to run the code. 
 **Download  [snowflake_cortex.ipynb](src/snowflake_cortex.ipynb) to your local and then upload it to Snowsight. 
 
 ***IMPORTANT***: Create your notebook in the following location DASH_D4B_DB > DASH_D4B_SCHEMA
