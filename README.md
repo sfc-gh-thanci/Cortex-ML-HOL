@@ -106,11 +106,11 @@ After running the code, check the DAG view of the dynamic table you have created
 ### Demo 4: Streamlit in Snowflake (SiS) Application
 
 Create Streamlit application in your Snowflake account using the code provided in [sis_app.py](src/sis_app.py)
-Using this [Streamlit](src/sis_app.py) code create a new streamlit App.
+
 
 #### 1. Sentiment Analysis
 
-Copy-paste this sample call transcript. If you're on Mac, you can also create a "shortcut" via text replacement. For example, when you type "s1" in the text area it can replace it with the transcript -- here's how System Setting >> Keyboard >> Text Input >> Text Replacements.
+Copy-paste this sample call transcript. This option will analysis the text you provided and provide the sentiment score using Cortex Sentiment Function.
 
 ```bash
 Customer: Hello!
@@ -132,10 +132,13 @@ Customer: Thank you! You too.
 
 #### 2. Latest Call Summary
 
+This option provide the summary of the latest call using the data in the Dynamic Table we have created in "Demo 3 - Dynamic Tables"
+
 ![Demo3.2](assets/demo3.2.png)
 
 #### 3. Forecast Call Volume
 
+This option will provide the forecasted call volumes using a line graph. Check the streamlit application code and see how easy the application call the model we have created in the frist step (line 26)
 
 ![Demo3.3](assets/demo3.3.png)
 
