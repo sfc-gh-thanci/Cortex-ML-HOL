@@ -25,9 +25,11 @@ Field optionally enclosed by: Double quotes
 - **Option 1:** Create and train the model using Cortex ML Functions.
 - **Option 2:** Use no-code UI Snowflake AI&ML Studio to create and train the model . Follow the screenshots.
 
+Step 1:
 <p align="center">
   <img src="assets/Studio_1.png" width=50% height=50% />
 </p>
+Step 2:
 <p align="center">
   <img src="assets/Studio_2.png" width=50% height=50% />
 </p>
