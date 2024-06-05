@@ -18,15 +18,17 @@ You must have access to a Snowflake account where Snowflake Cortex ([check avail
 Header: Skip first line
 Field optionally enclosed by: Double quotes
 
-
-<img align="center" src="assets/Load_Data.png" width=50% height=50%>
-
 <p align="center">
   <img src="assets/Load_Data.png" width=50% height=50% />
 </p>
 
 - ** Option 1: ** Create and train the model using Cortex ML Functions.
 - ** Option 2: ** Use no-code UI Snowflake AI&ML Studio to create and train the model . Follow the screenshots.
+
+<p align="center">
+  <img src="assets/Studio_1.png" width=50% height=50% />
+  <img src="assets/Studio_2.png" width=50% height=50% />
+</p>
 
 <img align="right" src="assets/Studio_1.png" width=50% height=50%>
 <img align="center" src="assets/Studio_2.png" width=50% height=50%>
