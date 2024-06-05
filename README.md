@@ -97,11 +97,13 @@ Open [Snowflake Coxtex Notebook](src/snowflake_cortex.ipynb) and run the command
 
 ### Demo 3: Dynamic Tables
 
-Open [dynamic_table_demo.sql](src/dynamic_table_demo.sql) SQL Worksheet and follow the demo script to perform the live demo.
+Download [dynamic_table_demo.sql](src/dynamic_table_demo.sql) and create a new SQL Worksheet using this code. Run the scripts to create Dynamic Tables.
 
 ![Demo2.1](assets/demo2.1.png)
 
 ![Demo2.2](assets/demo2.2.png)
+
+After running the code, check 
 
 ### Demo 4: Streamlit in Snowflake (SiS) Application
 
