@@ -84,8 +84,6 @@ Step 8:
 </p>
 
 
-The demo section of the D4B is broken down into three parts.
-
 Open [Snowflake Coxtex Notebook](src/snowflake_cortex.ipynb) and run the commands as show below. The purpose of this demo to be familiar with Snowflake Notebook and to see how easy to call/run Cortex LLM functions.
 
 ![Demo1](assets/demo1.1.png)
