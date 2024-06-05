@@ -21,6 +21,10 @@ Field optionally enclosed by: Double quotes
 
 <img align="center" src="assets/Load_Data.png" width=50% height=50%>
 
+<p align="center">
+  <img src="assets/Load_Data.png" width=50% height=50% />
+</p>
+
 - ** Option 1: ** Create and train the model using Cortex ML Functions.
 - ** Option 2: ** Use no-code UI Snowflake AI&ML Studio to create and train the model . Follow the screenshots.
 
