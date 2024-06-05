@@ -25,6 +25,7 @@ Field optionally enclosed by: Double quotes
 ## Model Training
 - **Option 1:** Create and train the model using Cortex ML Functions.
 
+          Step 1
     create or replace SNOWFLAKE.ML.FORECAST d4b_model(
       INPUT_DATA => SYSTEM$REFERENCE('TABLE', 'DAILY_CALL_VOLUME'),
       TIMESTAMP_COLNAME => 'date',
