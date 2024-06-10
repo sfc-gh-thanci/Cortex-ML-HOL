@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo is created to provide what you need to run this Hand On Lab. This repository covers all the steps from the setup to run the different demos. Please start with the prerequisites step and continue with setup and demos sections.
+This repository is designed to provide everything you need for this Hands-On Lab. It includes all the steps required, from setup to running the various demos. Begin with the prerequisites section, then proceed to the setup and demo sections.
 
 ## Prerequisites
 
