@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repo is created to provide what you need to run the updated version of the demo which has been presented in Data for Breakfast event. In the event we have demostrated the solution and we haven't run the setup. But for this Hands on Lab, we will also spend time together to setup the demo environment where we will touch the ML functions.
+This repo is created to provide what you need to run this Hand On Lab. This repository covers all the steps from the setup to run the different demos. Please start with the prerequisites step and continue with setup and demos sections.
+
 ## Prerequisites
 
 You must have access to a Snowflake account where Snowflake Cortex ([check available regions](https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions#label-cortex-llm-availability)) and Snowflake Notebooks are enabled. We will use AWS Frankfurt region for this HOL, since the LLM functions we will be using are available in this region. Supposing that you have created a Trial account for AWS Frankfurt region, otherwise please create one via this [link](https://signup.snowflake.com/?utm_source=google&utm_medium=paidsearch&utm_campaign=em-dk-en-brand-trial-exact&utm_content=go-eta-evg-ss-free-trial&utm_term=c-g-snowflake%20trial-e&_bt=562156038952&_bk=snowflake%20trial&_bm=e&_bn=g&_bg=129534974844&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgCw9J9bW_ANxN7hSrOJeiF-sO7tFdSMyDKRrpNGWS6R9KLnfeJrvkBoC-tcQAvD_BwE).
