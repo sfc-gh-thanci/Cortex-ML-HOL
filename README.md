@@ -113,7 +113,7 @@ Create a new Streamlit application (Snowsight -> Project -> Streamlit) in your S
 Then update the source code with the code provided in [sis_app.py](src/sis_app.py)
 
 <p align="center">
-  <img src="assets/SiS_update.png" width=75% height=75% />
+  <img src="assets/SiS_Update.png" width=75% height=75% />
 </p>
 
 #### 1. Sentiment Analysis
