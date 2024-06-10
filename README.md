@@ -104,8 +104,11 @@ After running the code, check the DAG view of the dynamic table you have created
 
 ### Demo 4: Streamlit in Snowflake (SiS) Application
 
-Create Streamlit application in your Snowflake account using the code provided in [sis_app.py](src/sis_app.py)
+Create a new Streamlit application (Snowsight -> Project -> Streamlit) in your Snowflake account and then update the source code with the code provided in [sis_app.py](src/sis_app.py), 
 
+<p align="center">
+  <img src="assets/Sis_v1.png" width=75% height=75% />
+</p>
 
 #### 1. Sentiment Analysis
 
